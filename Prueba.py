@@ -1,1 +1,1 @@
-print('Puto el Maic .l. xD')
+print('Puto el Danny')
